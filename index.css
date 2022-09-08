@@ -75,7 +75,7 @@ body {
 .plan-type,
 .cancel,
 .price,
-.alter-plan-container {
+.right-plan-container {
   font-size: var(--font-sml);
 }
 .summary-section h1 {
